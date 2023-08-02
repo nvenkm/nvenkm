@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, NODEJS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, NODEJS, EXPRESSJS**
 
 - 📫 How to reach me **7naveennn@gmail.com**
 
